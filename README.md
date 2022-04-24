@@ -7,8 +7,8 @@ I welcome you to explore this page where I have linked some of my projects rangi
 
 ## Table of Contents
 
-- [Coding Work](#Coding Work)
-- [CV and Resume](#CV and Resume)
+- [Coding Work](#Coding-Work)
+- [CV and Resume](#CV-and-Resume)
 - [Hobbies](#Hobbies)
 
 
