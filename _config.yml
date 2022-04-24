@@ -5,7 +5,7 @@ exclude:
 - README.md
 
 # Site settings
-url: 'https://adam-bauer-34.github.io'
+url: 'https://ryanmcarlson.github.io'
 baseurl: ''
 title: 'Ryan Carlson'
 description: 'Image Analyst at Maxar Technologies'
