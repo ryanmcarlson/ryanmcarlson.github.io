@@ -1,25 +1,4 @@
-theme: jekyll-theme-minimal
-
-# File excludes
-exclude:
-- README.md
-
-# Site settings
-url: 'https://ryanmcarlson.github.io'
-baseurl: ''
-title: 'Ryan Carlson'
-description: 'Image Analyst at Maxar Technologies'
-# logo: /images/logo.png
-
-# Header nav
-navigation_header:
-- title: Home
-  url: /
-- title: Coding Work
-  url: /coding-work/
-- title: CV and Resume
-  url: /cv-and-resume/
-- title: Hobbies
-  url: /hobbies/
-- title: Contact
-  url: /contact/
+plugins:
+   - jekyll-feed
+   - jekyll-sitemap
+   - jekyll-seo-tag
