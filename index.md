@@ -12,6 +12,6 @@ Also embedded are my Resume and CV, and even some of the interesting hobbies I'v
 
 ## Table of Contents
 
-- [Coding Work](ryanmcarlson.github.io/coding-work)
-- [CV and Resume](ryanmcarlson.github.io/cv-and-resume)
-- [Hobbies](ryanmcarlson.github.io/hobbies)
+- [Coding Work](#Coding-Work)
+- [CV and Resume](#CV-and-Resume)
+- [Hobbies](#Hobbies)
