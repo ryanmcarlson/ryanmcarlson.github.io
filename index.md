@@ -20,7 +20,7 @@ Click title of images to download PDF versions of my resume and curriculum vitae
 <div class="row">
   <div class="column">
     <div class="container">
-      <img src="/assets/files/Resume.pdf" alt="Resume" class="image" style="width:100%">
+      <iframe src="/assets/files/Resume.pdf" alt="Resume" class="image" style="width:100%">
       <div class="middle">
         <div class="text">
           <a href="/assets/files/Resume.pdf" download="ryancarlson_resume">Resume</a>
@@ -30,7 +30,7 @@ Click title of images to download PDF versions of my resume and curriculum vitae
   </div>
   <div class="column">
     <div class="container">
-      <img src="/assets/files/CV.pdf" alt="CV" class="image" style="width:100%">
+      <iframe src="/assets/files/CV.pdf" alt="CV" class="image" style="width:100%">
       <div class="middle">
         <div class="text">
           <a href="/assets/files/CV.pdf" download="ryancarlson_curriculumvitae">Curriculum Vitae</a>
