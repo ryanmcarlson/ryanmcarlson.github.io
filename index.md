@@ -9,12 +9,12 @@ Links to the projects I've been involved with after college
 Fun projects that have peaked my interest
 
 ## Documents
-<a href="/assets/files/Resume.pdf" download="ryancarlson_resume">
-  <img src="/assets/files/Resume.pdf" alt="Resume" style="width: 15vw; min-width: 140px;">
-</a>
-<a href="/assets/files/CV.pdf" download="ryancarlson_cv">
-  <img src="/assets/files/CV.pdf" alt="CV" style="width: 15vw; min-width: 140px;">
-</a>
+<div class="container">
+  <img src="/assets/files/Resume.pdf" alt="Resume" class="image">
+  <div class="middle">
+    <div class="text">Resume</div>
+  </div>
+</div>
 
 ## Hobbies
 Work-life balance is incredibly important to me, as I believe it should be for everyone. Here is where I welcome you to explore my life away from the computer.
