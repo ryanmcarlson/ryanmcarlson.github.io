@@ -9,10 +9,26 @@ Links to the projects I've been involved with after college
 Fun projects that have peaked my interest
 
 ## Documents
-<div class="container">
-  <img src="/assets/files/Resume.pdf" alt="Resume" class="image">
-  <div class="middle">
-    <div class="text">Resume</div>
+<div class="row">
+  <div class="column">
+    <div class="container">
+      <img src="/assets/files/Resume.pdf" alt="Resume" class="image" style="width:100%">
+      <div class="middle">
+        <div class="text">
+          <a href="/assets/files/Resume.pdf" download="ryancarlson_resume">Resume</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="container">
+      <img src="/assets/files/CV.pdf" alt="CV" class="image" style="width:100%">
+      <div class="middle">
+        <div class="text">
+          <a href="/assets/files/CV.pdf" download="ryancarlson_curriculumvitae">Curriculum Vitae</a>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
