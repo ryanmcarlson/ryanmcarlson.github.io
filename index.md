@@ -21,14 +21,14 @@ Click title of images to download PDF versions of my resume and curriculum vitae
   <div class="column">
     <div class="container">
       <iframe src="/assets/files/Resume.pdf" title="Resume" style="width:100%">
-        <a href="/assets/files/Resume.pdf" download="ryancarlson_resume">Resume</a>
+        <a href="/assets/files/Resume.pdf" download="ryancarlson_resume"></a>
       </iframe>
     </div>
   </div>
   <div class="column">
     <div class="container">
       <iframe src="/assets/files/CV.pdf" title="CV" style="width:100%">
-        <a href="/assets/files/CV.pdf" download="ryancarlson_curriculumvitae">Resume</a>
+        <a href="/assets/files/CV.pdf" download="ryancarlson_curriculumvitae"></a>
       </iframe>
     </div>
   </div>
