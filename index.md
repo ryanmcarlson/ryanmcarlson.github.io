@@ -15,7 +15,7 @@ Links to the projects I've been involved with after college
 Fun projects that have peaked my interest
 
 ## Documents
-CLick title of images to download PDF versions of my resume and curriculum vitae.
+Click title of images to download PDF versions of my resume and curriculum vitae.
 
 <div class="row">
   <div class="column">
