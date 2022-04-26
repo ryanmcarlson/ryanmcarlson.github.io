@@ -9,7 +9,8 @@ Links to the projects I've been involved with after college
 Fun projects that have peaked my interest
 
 ## Documents
-
+![Resume](/assets/files/Resume.pdf)
+![Curricula Vitae](/assets/files/CV.pdf)
 
 ## Hobbies
 Work-life balance is incredibly important to me, as I believe it should be for everyone. Here is where I welcome you to explore my life away from the computer.
