@@ -10,10 +10,10 @@ Fun projects that have peaked my interest
 
 ## Documents
 <a href="/assets/files/Resume.pdf" download="ryancarlson_resume">
-  <img src="/assets/files/Resume.pdf" alt="Resume">
+  <img src="/assets/files/Resume.pdf" alt="Resume" style="width: 15vw; min-width: 140px;">
 </a>
 <a href="/assets/files/CV.pdf" download="ryancarlson_cv">
-  <img src="/assets/files/CV.pdf" alt="CV">
+  <img src="/assets/files/CV.pdf" alt="CV" style="width: 15vw; min-width: 140px;">
 </a>
 
 ## Hobbies
