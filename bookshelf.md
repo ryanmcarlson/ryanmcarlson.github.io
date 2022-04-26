@@ -1,4 +1,4 @@
-## Bookshelf
+# Bookshelf
 These are the books I've read recently with the date I finished and a personal rating system.
 
 **Currently reading:** *Winter of the World* by Ken Follett
