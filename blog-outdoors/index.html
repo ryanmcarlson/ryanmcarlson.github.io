@@ -3,7 +3,6 @@ layout: default
 title: The Great Outdoors
 category: outdoors
 ---
-{% raw %}
 {% for post in site.posts %}
   {% if post.categories contains "outdoors" %}
 	<div class="post">
@@ -15,4 +14,3 @@ category: outdoors
 	</div>
   {% endif %}
 {% endfor %}
-{% endraw %}
