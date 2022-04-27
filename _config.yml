@@ -3,3 +3,6 @@ theme: jekyll-theme-minimal
 title: Ryan M. Carlson
 description: Image Analyst at Maxar Technologies
 show_downloads: false
+
+plugins:
+  - jekyll-feed
