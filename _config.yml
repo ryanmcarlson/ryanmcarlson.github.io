@@ -6,3 +6,9 @@ show_downloads: false
 
 plugins:
   - jekyll-feed
+
+feed:
+   posts_limit: 3
+   categories:
+      - coding
+      - outdoors
