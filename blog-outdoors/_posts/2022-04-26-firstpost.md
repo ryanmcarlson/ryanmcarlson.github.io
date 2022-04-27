@@ -1,5 +1,6 @@
 ---
 layout: post
+category: outdoors
 author: ryan
 ---
-This is a first post
+hello world
